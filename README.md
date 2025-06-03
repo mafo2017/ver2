@@ -3,10 +3,17 @@
 
 # Instalar todas las dependencias
 pip install tensorflow==2.15.0
+
 pip install tensorflow-gpu  # Para soporte GPU
+
 pip install scipy
+
 pip install pillow
+
 pip install matplotlib
+
 pip install numpy
+
 pip install psutil  # Para información de hardware
+
 
