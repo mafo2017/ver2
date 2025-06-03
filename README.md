@@ -1,8 +1,11 @@
 # Radiografias
 # La APP aprende en aproximadamente 12 horas
 
+Instalar  python 3.8
+
 # Instalar todas las dependencias
-pip install tensorflow==2.15.0
+
+pip install tensorflow==2.10
 
 pip install tensorflow-gpu  # Para soporte GPU
 
